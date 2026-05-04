@@ -1,4 +1,4 @@
-### AI Predictive Maintenance App for Cars
+### AutoVista — AI Predictive Maintenance App for Cars
 
 An AI-powered predictive maintenance mobile application for vehicles, developed as a Computer Engineering graduation project by a team of four students.
 
